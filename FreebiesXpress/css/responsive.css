@@ -1,0 +1,422 @@
+@media (min-width:320px) {
+    #home .first-item .menu {
+        margin-left: 158px;
+    }
+    #home .first-item .navbar-toggler-icon {
+        position: absolute;
+       margin-left: 92px;
+    }
+    #home .first-item .menu {
+        margin-top: 25px;
+    }
+    #home .second-item .ditels h1 {
+        font-size: 34px;
+        margin-bottom: 74px;
+    }
+    #home .second-item .ditels h6 {
+        font-size: 26px;
+    }
+    #home .second-item .second-button a {
+        font-size: 18px;
+        padding: 14px 25px;
+    }
+    #service .srv-name h2 {
+        font-size: 38px;
+    }
+    #service .srv-name p {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    
+    #portfolio .first-item {
+        padding-top: 56px;
+    }
+    #portfolio .first-item h1 {
+        font-size: 35px;
+    }
+    #portfolio .first-item p {
+        font-size: 14px;
+    }
+    #portfolio .masud .mr-item .bg-overflow .top-content {
+        margin-top: 135px;
+    }
+    #about .first-item h1 {
+        font-size: 37px;
+        margin-top: 62px;
+    }
+    #about .first-item p {
+        font-size: 15px;
+    }
+    #about .first-item p {
+        font-size: 17px;
+    }
+    #about .masud .date {
+        padding-right: none;
+        margin-left: none;
+        text-align: center;
+    } 
+    #about .masud {
+        margin-top: 252px;
+    }
+    #about .masud .middel img {
+        margin-left: 60px;
+        margin-top: -587px;
+    }
+    #about .rana .middel-2 img {
+        margin-left: 58px;
+        margin-top: -47px;
+    }
+    #about .rana .date-2 {
+       margin-right: 0;
+       padding-left: 0;
+       text-align: center;
+    }
+    #about .center {
+        margin-top: 48px;
+    }
+    #amazing .team h2 {
+        font-size: 38px;
+    }
+    #amazing .team p {
+        font-size: 15px;
+    }
+    #contact .second-sec .menu1 form {
+        margin-left: 12px;
+    } #contact .second-sec .menu1 form input {
+        width: 275px;
+    }
+    #contact .second-sec .massage form {
+        margin-left: 12px;
+    }
+    #contact .second-sec .massage form textarea {
+        width: 275px;
+        height: 210px;
+    }
+    #contact .button {
+        margin-top: 40px;
+        padding-bottom: 76px;
+    }
+    #coppyrite .ditels h6  {
+        font-size: 14px;
+    }
+    #coppyrite .icon i {
+        font-size: 17px;
+    }
+}
+
+
+
+
+@media (min-width:425px) {
+    #home .first-item .menu {
+        margin-left: 244px;
+    }
+    #home .first-item .navbar-toggler-icon {
+        position: absolute;
+       margin-left: 178px;
+    }
+    #home .first-item .menu {
+        margin-top: 25px;
+    }
+    #home .second-item .ditels h1 {
+        font-size: 46px;
+        margin-bottom: 50px;
+    }
+    #home .second-item .ditels h6 {
+        font-size: 29px;
+    }
+    #home .second-item .second-button a {
+        font-size: 20px;
+        padding: 12px 23px;
+    }
+    #service .srv-name h2 {
+        font-size: 40px;
+    }
+    #service .srv-name p {
+        font-size: 18px;
+        margin-top: 12px;
+    }
+   
+    #portfolio .first-item {
+        padding-top: 61px;
+    }
+    #portfolio .first-item h1 {
+        font-size: 40px;
+    }
+    #portfolio .first-item p {
+        font-size: 15px;
+    }
+    #portfolio .masud .mr-item .bg-overflow .top-content {
+        margin-top: 207px;
+    }
+    #about .first-item h1 {
+        font-size: 40px;
+        margin-top: 55px;
+    }
+    #about .first-item p {
+        font-size: 17px;
+    }
+    #about .masud .date {
+        padding-right: none;
+        margin-left: none;
+        text-align: center;
+    } 
+    #about .masud {
+        margin-top: 252px;
+    }
+    #about .masud .middel img {
+        margin-left: 102px;
+        margin-top: -545px;
+    }
+    #about .rana .middel-2 img {
+        margin-left: 110px;
+        margin-top: -47px;
+    }
+    #about .rana .date-2 {
+       margin-right: 0;
+       padding-left: 0;
+       text-align: center;
+    }
+    #about .center {
+        margin-top: 48px;
+    }
+    #amazing .team h2 {
+        font-size: 40px;
+    }
+    #amazing .team p {
+        font-size: 17px;
+    }
+    #contact .second-sec .menu1 form {
+        margin-left: 15px;
+    }
+    #contact .second-sec .menu1 form input {
+        width: 340px;
+    }
+    #contact .second-sec .massage form {
+        margin-left: 15px;
+    }
+    #contact .second-sec .massage form textarea {
+        width: 340px;
+        height: 210px;
+    }
+    #contact .button {
+        margin-top: 40px;
+        padding-bottom: 76px;
+    }
+    #coppyrite .ditels h6  {
+        font-size: 14px;
+    }
+    #coppyrite .icon i {
+        font-size: 17px;
+    }
+    
+}
+
+
+
+
+@media (min-width:768px) {
+    #home .first-item .menu {
+        margin-left: 552px;
+    }
+    #home .first-item .navbar-toggler-icon {
+        position: absolute;
+       margin-left: 485px;
+    }
+    #home .first-item .menu {
+        margin-top: 25px;
+    }
+    #home .second-item .ditels h1 {
+        font-size: 60px;
+        margin-bottom: 74px;
+    }
+    #home .second-item .ditels h6 {
+        font-size: 30px;
+    }
+    #home .second-item .second-button a {
+        font-size: 22px;
+        padding: 14px 25px;
+    }
+    #service .srv-name h2 {
+        font-size: 42px;
+    }
+    #service .srv-name p {
+        font-size: 19px;
+        margin-top: 15px;
+    }
+    #portfolio .first-item {
+        padding-top: 58px;
+    }
+    #portfolio .first-item h1 {
+        font-size: 40px;
+    }
+    #portfolio .first-item p {
+        font-size: 15px;
+    }
+    #portfolio .masud .mr-item .bg-overflow .top-content {
+        margin-top: 92px;
+    }
+    #about .first-item h1 {
+        font-size: 42px;
+        margin-top: 58px;
+    }
+    #about .first-item p {
+        font-size: 18px;
+    }
+    #about .masud .date {
+        padding-right: none;
+        margin-left: 22px;
+        text-align: right;
+    } 
+    #about .masud {
+        margin-top: 82px;
+    }
+    #about .masud .middel img {
+        margin-left: -12px;
+        margin-top: 0;
+    }
+    #about .rana .middel-2 img {
+        margin-left: 3px;
+        margin-top: -0;
+    }
+    #about .rana .date-2 {
+        margin-right: 0;
+        padding-left: 22px;
+        text-align: left;
+    }
+    #about .center {
+        margin-top: 75px;
+    }
+    #amazing .team h2 {
+        font-size: 40px;
+    }
+    #amazing .team p {
+        font-size: 17px;
+    }
+    #contact .second-sec .menu1 form {
+        margin-left: 0;
+    }
+    #contact .second-sec .menu1 form input {
+        width: 326px;
+    }
+    #contact .second-sec .massage form {
+        margin-left: 0;
+    }
+    #contact .second-sec .massage form textarea {
+        width: 340px;
+        height: 246px;
+    }
+    #contact .button {
+        margin-top: 14px;
+        padding-bottom: 108px;
+    }
+    #coppyrite .ditels h6  {
+        font-size: 12px;
+    }
+    #coppyrite .icon i {
+        font-size: 13px;
+    }
+    
+}
+
+
+
+@media (min-width:1024px) {
+    #home .first-item .menu {
+        margin-left: 565px;
+    }
+    #home .first-item .menu {
+        margin-top: 15px;
+    }
+    #home .second-item .ditels h1 {
+        font-size: 80px;
+        margin-bottom: 74px;
+    }
+    #home .second-item .ditels h6 {
+        font-size: 32px;
+    }
+    #home .second-item .second-button a {
+        font-size: 22px;
+        padding: 14px 25px;
+    }
+    #service .srv-name h2 {
+        font-size: 45px;
+    }
+    #service .srv-name p {
+        font-size: 19px;
+        margin-top: 20px;
+    }
+    
+    #portfolio .first-item {
+        padding-top: 86px;
+    }
+    #portfolio .first-item h1 {
+        font-size: 40px;
+    }
+    #portfolio .first-item p {
+        font-size: 17px;
+    }
+    #portfolio .masud .mr-item .bg-overflow .top-content {
+        margin-top: 155px;
+    }
+    #about .first-item h1 {
+        font-size: 45px;
+        margin-top: 68px;
+    }
+    #about .first-item p {
+        font-size: 18px;
+    }
+    #about .masud .date {
+        padding-right: 38px;
+        margin-left: 130px;
+        text-align: right;
+    } 
+    #about .masud {
+        margin-top: 82px;
+    }
+    #about .masud .middel img {
+        margin-left: -12px;
+        margin-top: 0;
+    }
+    #about .rana .middel-2 img {
+        margin-left: 88px;
+        margin-top: -0;
+    }
+    #about .rana .date-2 {
+        margin-right: 144px;
+        padding-left: 22px;
+        text-align: left;
+    }
+    #about .center {
+        margin-top: 85px;
+    }
+    #amazing .team h2 {
+        font-size: 40px;
+    }
+    #amazing .team p {
+        font-size: 17px;
+    }
+    #contact .second-sec .menu1 form {
+        margin-left: 84px;
+    }
+    #contact .second-sec .menu1 form input {
+        width: 447px;
+    }
+    #contact .second-sec .massage form {
+        margin-left: 0;
+    }
+    #contact .second-sec .massage form textarea {
+        width: 447px;
+        height: 246px;
+    }
+    #contact .button {
+        margin-top: 14px;
+        padding-bottom: 108px;
+    }
+    #coppyrite .ditels h6  {
+        font-size: 14px;
+    }
+    #coppyrite .icon i {
+        font-size: 17px;
+    }
+}

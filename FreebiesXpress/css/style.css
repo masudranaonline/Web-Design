@@ -1,0 +1,377 @@
+#home {
+    background-image: url(../img/Untitled-1.jpg);
+    width: 100%;
+    height: 800px;
+    background-position: center 0px;
+}
+#home .first-item .logo {
+    padding-top: 20px;
+    float: left;
+}
+
+#home .first-item .menu ul li {
+    float: left;
+    padding: 9px 17px;
+    list-style: none;
+    line-height: 12px;
+}
+#home .first-item .menu ul li a {
+    text-transform: uppercase;
+    color: #fafafa;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 500;
+}
+#home .first-item .navbar-toggler-icon:focus {
+    outline: none;
+    border: 2px solid #fff;
+    padding: 13px;
+
+}
+#home .first-item button:focus {
+     outline: none;
+}
+#home .second-item {
+    text-align: center;
+}
+#home .second-item .ditels {
+    margin-top: 208px;
+}
+#home .second-item .ditels h6 {
+    color: #ebe0e0;
+    font-weight: 500;
+}
+#home .second-item .ditels h1 {
+    color: #ffffff;
+    margin-top: 32px;
+    text-transform: uppercase;
+}
+#home .second-item .second-button a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: #FED137;
+    border-radius: 31px;
+}
+#home .second-item .second-button a:hover {
+    background: #5f5a5a;
+    color: #50d9eb;
+    transition: all .4s;
+}
+#service .srv-name {
+    text-align: center;
+    margin-top: 76px;
+}
+#service .srv-name h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+}
+#service .srv-name p {
+    color: #777777;
+    font-weight: 400;
+    margin-bottom: 60px;
+}
+#service .srv-menu .srv-item .icon {
+    text-align: center;
+}
+#service .srv-menu .srv-item .icon img {
+   border: 2px solid #fed136;
+   border-radius: 100px;
+   padding: 9px;
+   margin-bottom: 20px;
+   width: 57px;
+   height: 57px;
+}
+#service .srv-menu .srv-item .srv-detels h4 {
+    text-align: center;
+    color: #222222;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+#service .srv-menu .srv-item .srv-detels p {
+    text-align: center;
+    color: #777777;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 90px;
+}
+
+#portfolio {
+    background: #f7f7f7;
+    width: 100%;
+    height: 100%;
+}
+#portfolio .first-item {
+    text-align: center;
+}
+#portfolio .first-item h1 {
+    color: #222222;
+    text-transform: uppercase; 
+}
+#portfolio .first-item p {
+    margin-top: 15px;
+    font-weight: 500;
+    color: #777777;
+    margin-bottom: 70px;
+}
+#portfolio .masud .mr-item {
+    position: relative;
+    overflow: hidden;
+}
+#portfolio .masud .mr-item  img {
+    transition: all .5s;
+    width: 100%;
+}
+#portfolio .masud .mr-item:hover img {
+    transform: scale(1.1,1.2);
+}
+#portfolio .masud .mr-item .bg-overflow {
+    background: rgba(233, 28, 28, 0.6);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: all .5s;
+}
+#portfolio .masud .mr-item:hover .bg-overflow {
+    opacity: 1;
+}
+#portfolio .masud .mr-item .bg-overflow .top-content {
+    text-align: center;
+}
+#portfolio .masud .mr-item .bg-overflow .top-content a {
+    color: #000;
+    font-size: 17px;
+    text-transform: uppercase;
+    text-decoration: solid;
+    padding: 5px 12px;
+    border: 2px solid#fff;
+    border-radius: 14px;
+    font-weight: 700;
+}
+#portfolio .masud .top-ditels {
+    text-align: center;
+    background: #fff;
+    height: 89px;
+    margin-bottom: 48px;
+}
+#portfolio .masud .top-ditels h2 {
+    font-size: 20px;
+    color: #333333;
+    padding-top: 22px;
+}
+#portfolio .masud .top-ditels p {
+    font-size: 15px;
+    margin-top: -3px;
+    color: #737373;
+    font-weight: 700;
+}
+
+#about {
+    width: 100%;
+}
+#about .first-item  {
+    text-align: center;
+}
+#about .first-item h1 {
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    color: #222222;
+}
+#about .first-item p {
+    color: #777777;
+    font-weight: 500;
+} 
+#about .masud .date h4 {
+    font-size: 18px;
+    color: #222222;
+    margin-bottom: 16px;
+} 
+#about .masud .date p {
+    font-size: 14px;
+    color: #777777;
+} 
+#about .rana{
+    margin-top: 82px;
+}
+#about .rana .date-2 h4 {
+    font-size: 18px;
+    color: #222222;
+    margin-bottom: 16px;
+}
+#about .rana .date-2 p {
+    font-size: 14px;
+    color: #777777;
+}
+#about .center {
+    text-align: -webkit-center;
+    margin-left: 10px;
+}
+#about .center h5 {
+    width: 177px;
+    height: 177px;
+    border: 6px solid#f1f1f1;
+    border-radius: 100%;
+    padding: 35px 41px;
+    background: #fed136;
+    margin-bottom: 65px;
+}
+#amazing {
+    background: #ebe9e9;
+    width: 100%;
+    height: 100%;
+}
+#amazing .team {
+    text-align: center;
+}
+#amazing .team h2 {
+    text-transform: uppercase;
+    padding-top: 77px;
+    font-weight: 800;
+}
+#amazing .team p {
+    color: #777777;
+    font-weight: 700;
+    margin-top: 20px;
+    padding-bottom: 74px;
+}
+#amazing .mr-item .ditels .img {
+    text-align: center;
+}
+#amazing .mr-item .ditels .img img {
+    border-radius: 100%;
+    height: 188px;
+    width: 188px;
+    background: #000;
+}
+#amazing .mr-item .ditels .name {
+    text-align: center;
+}
+#amazing .mr-item .ditels .name h6 {
+    font-size: 16px;
+    color: #222222;
+    margin-top: 27px;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+#amazing .mr-item .ditels .name p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #697465;
+}
+#amazing .mr-item .ditels .icon {
+    text-align: center;
+    margin-right: 21px;
+    margin-top: -2px;
+    margin-bottom: 64px;
+}
+#amazing .mr-item .ditels .icon i {
+    font-size: 19px;
+    color: #000;
+    border: 2px solid#000;
+    border-radius: 100%;
+    padding: 9px 11px;
+    margin-left: 14px;
+}
+#amazing .just-ditels {
+    text-align: center;
+}
+#amazing .just-ditels p {
+    color: #777777;
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 77px;
+}
+#contact {
+    background-image: url(../img/masud.png);
+    width: 100%;
+    height: 100%;
+    margin-top: -15px;
+}
+#contact .masud {
+    background: rgba(20, 20, 20, 0.7);
+    height: 100%;
+}
+#contact .masud .fast-sec {
+    text-align: center;
+}
+#contact .masud .fast-sec h2 {
+    padding-top: 60px;
+    text-transform: uppercase;
+    font-size: 39px;
+    font-weight: 600;
+    color: #fff;
+}
+#contact .masud .fast-sec p {
+    font-size: 16px;
+    color: #c2bebe;
+    margin-top: 15px;
+    font-weight: 400;
+}
+#contact .second-sec {
+    margin-top: 90px;
+}
+#contact .second-sec .menu1 form input {
+    height: 58px;
+    margin-bottom: 36px;
+    padding-left: 19px;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #bbbbbb;
+    font-weight: 500;
+}
+#contact .second-sec .massage form textarea {
+    padding-left: 30px;
+    padding-top: 15px;
+    text-transform: f;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
+#contact .button {
+    text-align: center;
+}
+#contact .button a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 14px 34px;
+    background: #fed136;
+    border: 1px solid #000; 
+    border-radius: 8px%;
+}
+#contact .button a:hover {
+    color: #50d9eb;
+    background: #5f5a5a;
+    border: 1px solid #000; 
+}
+#coppyrite {
+    width: 100%;
+    height: 100%;
+    background: #e0dcdc;
+    margin-bottom: 38px;
+}
+#coppyrite .ditels h6  {
+    color: #555555;
+    font-weight: 500;
+    margin-top: 32px;
+    text-align: center;
+}
+#coppyrite .icon {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 42px;
+} 
+#coppyrite .icon i {
+    padding: 12px 13px;
+    border: 1px solid #000;
+    border-radius: 100%;
+    margin-left: 10px;
+    background: #000000;
+    color: #ffffff;
+}
