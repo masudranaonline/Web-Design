@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+#headder {
+    background: #255a84;
+    width: 100%;
+}
+#headder .item .first .menu1 a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #f4e9d5;
+    font-weight: 400;
+}
+#headder .item .second .menu2 a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #f4e9d5;
+    font-weight: 400;
+}
+/*End header section */
+/*start Attention section*/
+#attention {
+    background: #f4e9d5;
+    max-width: -100%;
+    padding-bottom: 1px;
+    border-bottom: 1px solid#b69f6b;
+}
+#attention .page .first-sec .logo {
+    padding-top: 4px;
+    float: left;
+}
+#attention .page .first-sec .logo a {
+    color: #333333;
+    text-decoration: none;
+    font-weight: 500;
+}
+#attention .page .first-sec .logo p {
+    color: #333333;
+    margin-top: -11px;
+    font-weight: 500;
+}
+
+#attention .page .secone-sec {
+    margin-top: 35px;
+}
+#attention .page .secone-sec .item ul li {
+    list-style: none;
+    float: left;
+}
+#attention .page .secone-sec .item ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 300;
+}
+#attention .page .secone-sec .item ul li a:hover {
+    color: #22537a;
+    border-bottom: 1px solid #22537a;
+}
+#attention .page button span i {
+    color: #000;
+    font-size: 30px;
+    position: absolute;
+    display: inline-block;
+    border: 2px solid #000;
+    padding: 3px;
+}
+.navbar-toggler {
+     padding:0; 
+} 
+/*End Attention section */
+/*start masud section*/
+#masud {
+    background: #f4e9d5;
+    width: 100%;
+    padding-top: 35px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid#b69f6b;
+    font-family: 'Raleway', sans-serif;
+}
+#masud .head .owl-carousel .item img {
+    width: 135px;
+    height: 135px;
+}
+/*End masud section */
+/*start rana section*/
+#rana {
+    background: #f4e9d5;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 8px;
+}
+#rana .rana1 .menu h3 {
+    color: #333333;
+    font-weight: 600;
+    border-bottom: 1px solid#b69f6b;
+    padding-bottom: 16px;
+}
+#rana .rana1 .menu p {
+    margin-top: 24px;
+    color: #666666;
+    font-size: 15px;
+    font-weight: 500;
+}
+#rana .rana1 .video img {
+    margin-bottom: 40px;
+}
+#rana .rana2 .menu h3 {
+    color: #333333;
+    font-weight: 600;
+    border-bottom: 1px solid#b69f6b;
+    padding-bottom: 16px;
+}
+#rana .rana2 .menu p {
+    margin-top: 24px;
+    color: #666666;
+    font-size: 15px;
+    font-weight: 500;
+}
+#rana .rana2 .video img {
+    margin-bottom: 40px;
+}
+#rana .rana3 .menu h3 {
+    color: #333333;
+    font-weight: 600;
+    border-bottom: 1px solid#b69f6b;
+    padding-bottom: 16px;
+}
+#rana .rana3 .ditels {
+    margin-top: 24px;
+    border-bottom: 1px solid #b69f6b;
+}
+#rana .rana3 .ditels .img img {
+    height: 80px;
+    width: 80px;
+}
+#rana .rana3 .ditels .all h6 {
+    margin-bottom: 2px;
+    font-weight: 600;
+    color: #666666;
+}
+#rana .rana3 .ditels .all p {
+    line-height: 14px;
+    color: #666666;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+#rana .rana3 .ditels .all a {
+    text-decoration: none;
+    background: #3a6988;
+    color: #ffffff;
+    font-size: 13px;
+}
+#rana .rmasud h4 {
+    border-bottom: 1px solid#b69f6b;
+    font-size: 18px;
+    color: #333333;
+    font-weight: 600;
+    padding-bottom: 14px;
+}
+#rana .rmasud p {
+    color: #666666;
+    line-height: 26px;
+    margin-top: 16px;
+    font-weight: 400;
+}
+#rana .rmasud p a {
+    color: #666666;
+    text-decoration: none;
+    border-bottom: 1px solid#b69f6b;
+}
+/*End rana section */
+/*start masudrana section*/
+#masudrana {
+    background: #e1d8c3;
+    width: 100%;
+    padding-top: 40px;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 36px;
+}
+
+#masudrana .item h3 {
+    font-size: 21px;
+    color: #666666;
+    padding-bottom: 6px;
+    font-weight: 600;
+}
+#masudrana .item p {
+    font-size: 16px;
+    color: #3a6988;
+    margin-top: 10px;
+    font-weight: 400;
+}
+#masudrana .item .box {
+    height: .9px;
+    background: #b69f6b;
+}
+/*End masudrana section */
+/*start mmrana section*/
+#mmrana {
+    background: #949494;
+    padding-top: 21px;
+    padding-bottom: 1px
+}
+#mmrana .item {
+    text-align: center;
+}
+#mmrana .item .fast h5 {
+    color: #626262;
+    font-weight: 500;
+}
+#mmrana .item .second p {
+    color: #626263;
+    font-weight: 500;
+}
+/*End mmranammrana section */

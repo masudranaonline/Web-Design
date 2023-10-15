@@ -1,0 +1,463 @@
+@media (min-width: 320px) {
+    #headder {
+        padding-bottom: 2px;
+    }
+    #headder .item .second {
+        margin-top: 0;
+    }
+    #headder .item .second .menu2 {
+        float: none;
+        text-align: center;
+    }
+    #headder .item .first .menu1 {
+        text-align: center;
+    }
+    #attention .page .secone-sec .item ul li {
+        margin-left: 50px;
+    }
+    #attention .page .secone-sec {
+        margin-left: 164px;
+    }
+    #attention .page button span i {
+        margin-left: 78px;
+    }
+    #attention .page .first-sec .logo a {
+        font-size: 32px;
+    }
+    #attention .page .first-sec .logo p {
+        font-size: 9px;
+    }
+    #rana .rana3 .ditels .img {
+        float: left;
+    }
+    #rana .rana3 .ditels .all {
+        margin-left: 100px;
+        text-align: left;
+        height: 48px;
+    }
+    #rana .rana3 .ditels .all a {
+        float: right;
+    }
+    #rana .rana3 .ditels {
+        padding-bottom: 50px;
+    }
+    #rana .rana1 .video img {
+        width: 300px;
+        height: 200px;
+    }
+    #rana .rana2 .video img {
+        width: 300px;
+        height: 200px;
+    }
+    #rana .rmasud {
+        margin-top: 35px;
+    }
+    #rana .rana1 .video img {
+        margin-top: 13px;
+    }
+    #rana .rana2 .video img {
+        margin-top: 13px;
+    }
+    #rana .rana3 .ditels .all h6 {
+        font-size: 14px;
+    }
+    #rana .rana3 .ditels .all p {
+        font-size: 14px;
+    }
+    #rana .rana1 .menu h3 {
+        font-size: 20px;
+    }
+    #rana .rana2 .menu h3 {
+        font-size: 20px;
+    }
+    #rana .rana3 .menu h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    #rana .rana1 {
+        text-align: center;
+    }
+    #rana .rana2 {
+        text-align: center;
+    }
+    #rana .rmasud p {
+        font-size: 13px;
+    }
+    #masudrana .item {
+        text-align: center;
+    }
+    #masudrana .item p {
+        padding-bottom: 20px;
+    }
+    #mmrana .item .fast {
+        float: none;
+    }
+    #mmrana .item .second {
+        text-align: none;
+    }
+    #mmrana .item {
+        text-align: center;
+    }
+    #mmrana .item .fast h5 {
+        font-size: 11px;
+    }
+    #mmrana .item .second p {
+        font-size: 11px;
+    }
+    #masudrana .item .box {
+        width: 100%;
+    }
+    #masudrana .item {
+        width: 100%;
+        padding: 27px;
+    }
+
+}
+
+
+@media (min-width: 425px) {
+    #headder {
+        padding-bottom: 4px;
+    }
+    #headder .item .second {
+        margin-top: 0;
+    }
+    #headder .item .second .menu2 {
+        float: none;
+        text-align: center;
+    }
+    #headder .item .first .menu1 {  
+        text-align: center;
+    }
+    #attention .page .secone-sec .item ul li {
+        margin-left: 50px;
+    }
+    #attention .page .secone-sec {
+        margin-left: 214px;
+    }
+    #attention .page button span i {
+        margin-left: 95px;
+    }
+    #attention .page .first-sec .logo a {
+        font-size: 40px;
+    }
+    #attention .page .first-sec .logo p {
+        font-size: 12px;
+    }
+    #rana .rana3 .ditels .img {
+        float: left;
+    }
+    #rana .rana3 .ditels .all {
+        margin-left: 100px;
+        text-align: left;
+        height: 60px;
+    }
+    #rana .rana3 .ditels .all a {
+        float: right;
+    }
+    #rana .rana3 .ditels {
+        padding-bottom: 50px;
+    }
+    #rana .rana1 .video img {
+        width: 300px;
+        height: 200px;
+        margin-top: 13px;
+    }
+    #rana .rana2 .video img {
+        width: 300px;
+        height: 200px;
+    }
+    #rana .rmasud {
+        margin-top: 40px;
+    }
+    #rana .rana2 .video img {
+        margin-top: 13px;
+    }
+    #rana .rana3 .ditels .all h6 {
+        font-size: 18px;
+    }
+    #rana .rana3 .ditels .all p {
+        font-size: 17px;
+    }
+    #rana .rana1 .menu h3 {
+        font-size: 23px;
+    }
+    #rana .rana2 .menu h3 {
+        font-size: 23px;
+    }
+    #rana .rana3 .menu h3 {
+        font-size: 23px;
+        text-align: center;
+    }
+    #rana .rana1 {
+        text-align: center;
+    }
+    #rana .rana2 {
+        text-align: center;
+    }
+    #rana .rmasud p {
+        font-size: 15px;
+    }
+    #masudrana .item {
+        text-align: center;
+    }
+    #masudrana .item p {
+        padding-bottom: 20px;
+    }
+    #mmrana .item .fast {
+        float: none;
+    }
+    #mmrana .item .second {
+        text-align: none;
+    }
+    #mmrana .item {
+        text-align: center;
+    }
+    #mmrana .item .fast h5 {
+        font-size: 13px;
+    }
+    #mmrana .item .second p {
+        font-size: 13px;
+    }
+    #masudrana .item .box {
+        width: 100%;
+    }
+    #masudrana .item {
+        width: 100%;
+        padding: 27px;
+    }
+
+}
+
+
+@media (min-width: 768px) {
+    #headder {
+        padding-bottom: 28px;
+    }
+    #headder .item .second {
+        margin-top: -23px;
+    }
+    #headder .item .second .menu2 {
+        float: right;
+        text-align: none;
+    }
+    #headder .item .first .menu1 {   
+        text-align: left;
+    }
+    #attention .page .secone-sec .item ul li {
+        margin-left: 5px;
+    }
+    #attention .page .secone-sec {
+        margin-left: 535px;
+    }
+    #attention .page button span i {
+        margin-left: 364px;
+    }
+    #attention .page .first-sec .logo a {
+        font-size: 42px;
+    }
+    #attention .page .first-sec .logo p {
+        font-size: 12px;
+    }
+    #rana .rana3 .ditels .img {
+        float: left;
+        /* text-align: center; */
+    }
+    #rana .rana3 .ditels .all {
+        margin-left: 92px;
+        text-align: left;
+        height: 150px;
+    }
+    #rana .rana3 .ditels .all a {
+        float: right;
+        text-align: none;
+    }
+    #rana .rana3 .ditels {
+        padding-bottom: 0;
+    }
+    #rana .rana1 .video img {
+        width: 220px;
+        height: 200px;
+    }
+    #rana .rana2 .video img {
+        width: 220px;
+        height: 200px;
+    }
+    #rana .rmasud {
+        margin-top: -268px;
+    }
+    #rana .rana1 .video img {
+        margin-top: 40px;
+    }
+    #rana .rana2 .video img {
+        margin-top: 40px;
+    }
+    #rana .rana3 .ditels .all h6 {
+        font-size: 15px;
+    }
+    #rana .rana3 .ditels .all p {
+        font-size: 11px;
+    }
+    #rana .rana1 .menu h3 {
+        font-size: 15px;
+    }
+    #rana .rana2 .menu h3 {
+        font-size: 15px;
+    }
+    #rana .rana3 .menu h3 {
+        font-size: 15px;
+        text-align: center;
+    }
+    #rana .rana1 {
+        text-align: left;
+    }
+    #rana .rana2 {
+        text-align: left;
+    }
+    #rana .rmasud p {
+        font-size: 15px;
+    }
+    #masudrana .item {
+        text-align: left;
+    }
+    #masudrana .item p {
+        padding-bottom: 0;
+    }
+    #mmrana .item .fast {
+        float: left;
+    }
+    #mmrana .item .second {
+        text-align: right;
+    }
+    #mmrana .item {
+        text-align: none;
+    }
+    #mmrana .item .fast h5 {
+        font-size: 14px;
+    }
+    #mmrana .item .second p {
+        font-size: 14px;
+    }
+    #masudrana .item .box {
+        width: 120px;
+    }
+    #masudrana .item {
+        width: 20%;
+        padding: 7px;
+    }
+
+}
+
+
+@media (min-width: 1024px) {
+    #headder {
+        padding-bottom: 28px;
+    }
+    #headder .item .second {
+        margin-top: -23px;
+    }
+    #headder .item .second .menu2 {
+        float: right;
+        text-align: none;
+    }
+    #headder .item .first .menu1 { 
+        text-align: left;
+    }
+    #attention .page .secone-sec .item ul li {
+        margin-left: 50px;
+    }
+    #attention .page .secone-sec {
+        margin-left: 494px;
+    }
+    #attention .page .first-sec .logo a {
+        font-size: 42px;
+    }
+    #attention .page .first-sec .logo p {
+        font-size: 12px;
+    }
+    #rana .rana3 .ditels .img {
+        float: left;
+    }
+    #rana .rana3 .ditels .all {
+        margin-left: 100px;
+        text-align: left;
+        height: 69px;
+    }
+    #rana .rana3 .ditels .all a {
+        float: right;
+    }
+    #rana .rana3 .ditels {
+        padding-bottom: 50px;
+    }
+    #rana .rana1 .video img {
+        width: 300px;
+        height: 200px;
+    }
+    #rana .rana2 .video img {
+        width: 300px;
+        height: 200px;
+    }
+    #rana .rmasud {
+        margin-top: -205px;
+    }
+    #rana .rana1 .video img {
+        margin-top: 13px;
+    }
+    #rana .rana2 .video img {
+        margin-top: 13px;
+    }
+    #rana .rana3 .ditels .all h6 {
+        font-size: 18px;
+    }
+    #rana .rana3 .ditels .all p {
+        font-size: 13px;
+    }
+    #rana .rana1 .menu h3 {
+        font-size: 23px;
+    }
+    #rana .rana2 .menu h3 {
+        font-size: 23px;
+    }
+    #rana .rana3 .menu h3 {
+        font-size: 23px;
+        text-align: left;
+    }
+    #rana .rana1 {
+        text-align: left;
+    }
+    #rana .rana2 {
+        text-align: left;
+    }
+    #rana .rmasud p {
+        font-size: 15px;
+    }
+    #masudrana .item {
+        text-align: left;
+    }
+    #masudrana .item p {
+        padding-bottom: 0;
+    }
+    #mmrana .item .fast {
+        float: left;
+    }
+    #mmrana .item .second {
+        text-align: right;
+    }
+    #mmrana .item {
+        text-align: none;
+    }
+    #mmrana .item .fast h5 {
+        font-size: 14px;
+    }
+    #mmrana .item .second p {
+        font-size: 14px;
+    }
+    #masudrana .item .box {
+        width: 207px;
+    }
+    #masudrana .item {
+        width: 20%;
+        padding: 27px;
+    }
+
+}
