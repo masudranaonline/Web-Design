@@ -155,6 +155,7 @@ color: cadetblue;
     padding-bottom: 12px;
     text-align: center;
 }
+
 .landing-page .horizons-body .book{
     text-align: center;
 }
@@ -212,6 +213,7 @@ color: cadetblue;
 .story .img {
     text-align: center;
 }
+
 .story h2 {
     color: #303030;
     font-size: 30px;
@@ -254,12 +256,16 @@ color: cadetblue;
     font-size: 33px;
     padding: 17px 0 6px;
     font-weight: 500;
-    line-height: 20px;
+    line-height: 33px;
 }
 .video p{
     color: #c9c9c9;
     font-family: sans-serif;
     font-size: 15px;
+}
+.video iframe {
+    width: 920px;
+    height: 420px;
 }
 
 
@@ -389,14 +395,7 @@ color: cadetblue;
     font-weight: 400;
     font-style: normal;
 }
-.card-data .card-top-data p{
-    font-family: sans-serif;
-    font-weight: 400;
-    color: rgb(68, 68, 68);
-    font-size: 18px;
-    line-height: 22px;
-    text-align: center;
-}
+
 .card-data .card-button{
     width: 100%;
     height: 32px;
@@ -425,5 +424,67 @@ color: cadetblue;
 }
 /* end card section css */
 
+footer {
+    padding: 40px 0;
+    
+}
+footer img{
+    height: 40px;
+    width: auto;
+}
+footer .data {}
+footer .data h4{
+   font-size: 20px;
+   color: rgb(48, 48, 48);
+   line-height: 30px;
+   font-weight: 400;
+   padding: 15px 0;
+}
+footer .data ul{
+    padding-left: 0;
+    line-height: 42px;
+}
+footer .data ul li{}
+footer .data ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 21px;
+    color: #303030;
+    font-weight: 300;
+    font-style: normal;
+}
+footer .data ul li a:hover {
+    color: rgb(0, 51, 255);
+}
+footer .social {
+    display: flex;
+    justify-content: space-between;
+}
+footer .social .social-icons{}
+footer .social .social-icons ul li{
+    float: left;
+    padding: 0 5px;
+}
+footer .social .social-icons ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 21px;
+    color: #303030;
+    font-weight: 300;
+    font-style: normal;
+}
+footer .social .social-icons ul li a:hover {
+    color: rgb(0, 51, 255);
+}
+footer .social ul li i{
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
 
-
+footer .social ul li i:hover {
+    background-color: blue;
+}

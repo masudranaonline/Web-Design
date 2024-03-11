@@ -1,0 +1,97 @@
+/* // Extra large devices */
+@media(min-width:1200px) {}
+
+/* // Large devices */
+@media(min-width:992px) and (max-width:1199px) {}
+
+/* // tablet  devices laptop devices */
+@media(min-width:768px) and (max-width:991px) {
+    .video iframe {
+        width: 500px;
+        height: 220px;
+    }
+
+    .benefit .data{
+        padding: 5px;
+        margin: 0;
+    }
+    .story .img img{
+        width: 100%;
+    }
+    .landing-page .horizons .horizons-body img {
+        width: 100%;
+    }
+    .landing-page .horizons-body h4 {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+
+    .landing-page .main h1 {
+        font-size: 40px;
+    }
+
+}
+
+/* // mobile landscape devices landscape phones*/
+@media(min-width:576px) and (max-width:767px) {
+    .video iframe {
+        width: 100%;
+        height: auto;
+    }
+    .story .img img{
+        width: 100%;
+    }
+    .landing-page .horizons .horizons-body img {
+        width: 100%;
+    }
+    .landing-page .horizons-body h4 {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+    .landing-page .main h1 {
+        font-size: 40px;
+    }
+
+}
+
+/* // mobile  devices phones*/
+@media(min-width:320px) and (max-width:575px) {
+    .video iframe {
+        width: 100%;
+        height: auto;
+    }
+    .story .img img{
+        width: 100%;
+    }
+    .landing-page .horizons .horizons-body img {
+        width: 100%;
+    }
+    .landing-page .horizons-body h4 {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+    .landing-page .main h1 {
+        font-size: 40px;
+    }
+}
+
+/* // mobile  devices phones 480px */
+@media(min-width:321px) and (max-width:480px) {
+    .video iframe {
+        width: 100%;
+        height: auto;
+    }
+    .story .img img{
+        width: 100%;
+    }
+    .landing-page .horizons .horizons-body img {
+        width: 100%;
+    }
+    .landing-page .horizons-body h4 {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+    .landing-page .main h1 {
+        font-size: 40px;
+    }
+}
