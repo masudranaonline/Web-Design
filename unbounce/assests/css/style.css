@@ -1,0 +1,429 @@
+* {
+margin: 0;
+padding: 0;
+outline: 0;
+}
+
+*:focus {
+outline: none;
+}
+
+ul,
+li {
+list-style-type: none;
+}
+
+a {
+text-decoration: none;
+}
+
+img {
+border: 0;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+font-family: 'Oswald', sans-serif;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+ul,
+li,
+.navbar,
+.navbar-nav {
+padding: 0;
+margin: 0;
+}
+
+body {
+background-color: #f1f2f4;
+}
+
+.mt-8 {
+margin-top: 60px;
+}
+/* end common css */
+
+/* start navbar css */
+.header {
+background-color: black;
+border-bottom: 2px solid blue;
+
+}
+.header .items button button .login{
+color: #fff;
+background-color: blue;
+}
+/* end navbar css */
+
+/* start banner section css */
+.Banner {
+padding: 20px 0;
+}
+.Banner .Back-to {
+
+}
+.Banner .Back-to a{
+text-decoration: none;
+color: black;
+font-size: 12px;
+}
+.Banner .Details {
+padding: 50px 0;
+}
+.Banner .Details .horizons{
+/* padding: 30px 0; */
+}
+.Banner .Details .horizons h2{
+color: rgb(48, 48, 48);
+font-size: 25px;
+font-weight: 400;
+line-height: 25px;
+}
+.Banner .Details .horizons button{
+background-color: #f6921e;
+color: #fff;
+text-transform: uppercase;
+font-size: 14px;
+font-weight:400;
+padding: 9px 30px;
+}
+.Banner .Details .horizons p{
+padding: 10px 0;
+font-family: sans-serif;
+font-size: 15px;
+color: rgb(48, 48, 48);
+}
+.Banner .Details .preview-categories {}
+.Banner .Details .preview-categories span a{
+font-style: normal;
+font-weight: 400;
+color: #303030;
+font-size: 15px;
+line-height: 21px;
+text-decoration: none;
+}
+.Banner .Details .preview-categories span a:hover {
+color: rgb(0, 51, 255);
+}
+.Banner .Details .preview-categories .split-dot{
+color: cadetblue;
+}
+/* end banner section css */
+
+/* start Horizons section css */
+.landing-page {
+
+}
+.landing-page .main{
+    margin: 26px 18px;
+    background-color: #2e2e36;
+    padding-top: 25px;
+    padding-bottom: 35px;
+}
+
+.landing-page .main .title {
+    width: auto;
+    text-align: center;
+}
+.landing-page .main h1 {
+    font-size: 82px;
+    line-height: 85px;
+    font-family: Nunito; color: rgb(255, 255, 255);
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px 0;
+}
+.landing-page .horizons-body h4 {
+    color: white;
+    font-size: 25px;
+    padding-bottom: 12px;
+    text-align: center;
+}
+.landing-page .horizons-body .book{
+    text-align: center;
+}
+.landing-page .horizons-body .form {
+    padding-top: 60px;
+}
+.landing-page .horizons-body .form button {
+    background-color: #00c099;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+/* end Horizons section css */
+
+/* start benefit section css */
+.benefit{
+    padding: 30px;
+    background-color: #f5f5f5;
+    margin: 26px 18px;
+}
+.benefit .data{
+    text-align: center;
+    padding: 30px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+.benefit .data img{
+    padding-bottom: 10px;
+}
+.benefit .data h4{
+    color: #152f2e;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 0;
+}
+.benefit .data p{
+    color: #aeb7b7;
+    font-family: serif;
+    line-height: 25px;
+}
+/* end benefit section css */
+
+/*start story section css */
+.story {
+    padding: 50px 30px;
+    background-color: #f5f5f5;
+    margin: 26px 18px;
+}
+.story .img {
+    text-align: center;
+}
+.story h2 {
+    color: #303030;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 38px;
+}
+.story p {
+    line-height: 28px;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-top: 12px;
+
+}
+/* end story section css */
+
+/* start partner section css */
+.partner {
+    padding: 50px 30px;
+    background-color: #00c099;
+    margin: 26px 18px;
+    text-align: center;
+}
+.partner h3{
+    /* text-align: center; */
+    color: #d1f4ed;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+/* end partner section css */
+
+/* start video section css */
+.video {
+    padding: 50px 30px;
+    margin: 26px 18px;
+    text-align: center;
+}
+.video h1{
+    color: #303030;
+    font-size: 33px;
+    padding: 17px 0 6px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.video p{
+    color: #c9c9c9;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+
+
+/* end video section css */
+
+/* start testimonials section css */
+.testimonials {
+    padding: 50px 30px;
+    margin: 26px 18px;
+    text-align: center;
+    background-color: #fafafa;
+}
+
+.testimonials .profile{
+    line-height: 3px;
+}
+.testimonials .profile img{}
+.testimonials .profile p{
+    color: #303030;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding-top: 15px;
+}
+.testimonials .profile span{
+    font-size: 12px;
+    font-weight: 500;
+}
+.testimonials h1{
+    font-family: sans-serif;
+    font-style: italic;
+    padding: 58px 0;
+    font-weight: 400;
+    font-size: 35px;
+
+}
+/* end testimonials section css */
+
+/* start more-details section css */
+.more-details {
+    padding: 50px 30px;
+    margin: 26px 18px;
+    background-color: #fafafa;
+    /* text-align: center; */
+}
+.more-details h1{
+    text-align: center;
+    color: #303030;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.more-details .ditels{
+    display: flex;
+    padding-top: 42px;
+    justify-content: center;
+}
+.more-details .ditels img{
+    
+}
+.more-details .ditels .text{
+    line-height: 20px;
+    padding-left: 12px;
+}
+.more-details .ditels .text h6{
+    color: #303030;
+    font-weight: bold;
+}
+.more-details .ditels .text span{
+    color: #a4b8b8;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+/* end more-details section css */
+
+/* start more-details section css */
+.final-call {
+    padding: 60px 30px;
+    margin: 26px 18px;
+    background-color: #2e2e36;
+    text-align: center;
+}
+.final-call h1{
+    color: white;
+}
+.final-call p{
+    color: #b4b4b7;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 22px 0;
+
+}
+.final-call button {
+    background-color: #00b68b;
+    padding: 12px 60px;
+    border-radius: 8px;
+    color: wheat;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+/* end more-details section css */
+
+/* start footer section css */
+.footer {
+    margin: 26px 18px;
+}
+.footer .data {
+    display: flex;
+    justify-content: space-between;
+}
+/* end footer section css */
+
+/* start card section css */
+.card-data {
+    padding: 40px 0;
+}
+.card-data .card-top-data {
+    padding: 20px 0;
+}
+.card-data .card-top-data h1{
+    font-size: 18px;
+    line-height: 23px;
+    color: rgb(48, 48, 48);
+    font-weight: 400;
+    font-style: normal;
+}
+.card-data .card-top-data p{
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(68, 68, 68);
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+.card-data .card-button{
+    width: 100%;
+    height: 32px;
+    border: 1px solid blue;
+    color: rgb(86, 86, 171);
+    font-size: 12px;
+    line-height: 17px;
+    text-transform: uppercase;
+    font-weight: 500;
+    
+}
+.card-data .card-button:hover{
+    color: rgb(25, 25, 237);
+}
+.card-data .card-shortTitle{
+    color: rgb(48, 48, 48);
+     font-size: 18px;
+     line-height: 21px;
+     font-weight: 500;
+}
+.card-data .card-pragraph {
+    color: rgb(68, 68, 68);
+    font-weight: 400;
+    line-height: 21px;
+    font-size: 14px;
+}
+/* end card section css */
+
+
+
