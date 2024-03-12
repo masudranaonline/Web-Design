@@ -64,18 +64,31 @@ background-color: black;
 border-bottom: 2px solid blue;
 
 }
-.header .items button button .login{
-color: #fff;
-background-color: blue;
+.header .right-btn .btn_login{
+color: blue;
+background-color: white;
+padding: 5px 10px;
 }
+.header .right-btn .btn_login:hover{
+    color: white;
+    background-color: blue;
+    }
+
+.header .right-btn .btn_trials{
+    color: #fff;
+    background-color: blue;
+    padding: 5px 10px;
+    }
+    .header .right-btn .btn_trials:hover{
+        color: blue;
+        background-color: white;
+        }
+
 /* end navbar css */
 
 /* start banner section css */
 .Banner {
 padding: 20px 0;
-}
-.Banner .Back-to {
-
 }
 .Banner .Back-to a{
 text-decoration: none;
@@ -84,9 +97,6 @@ font-size: 12px;
 }
 .Banner .Details {
 padding: 50px 0;
-}
-.Banner .Details .horizons{
-/* padding: 30px 0; */
 }
 .Banner .Details .horizons h2{
 color: rgb(48, 48, 48);
@@ -108,7 +118,6 @@ font-family: sans-serif;
 font-size: 15px;
 color: rgb(48, 48, 48);
 }
-.Banner .Details .preview-categories {}
 .Banner .Details .preview-categories span a{
 font-style: normal;
 font-weight: 400;
@@ -126,9 +135,7 @@ color: cadetblue;
 /* end banner section css */
 
 /* start Horizons section css */
-.landing-page {
 
-}
 .landing-page .main{
     margin: 26px 18px;
     background-color: #2e2e36;
@@ -283,7 +290,6 @@ color: cadetblue;
 .testimonials .profile{
     line-height: 3px;
 }
-.testimonials .profile img{}
 .testimonials .profile p{
     color: #303030;
     font-size: 12px;
@@ -323,9 +329,6 @@ color: cadetblue;
     display: flex;
     padding-top: 42px;
     justify-content: center;
-}
-.more-details .ditels img{
-    
 }
 .more-details .ditels .text{
     line-height: 20px;
@@ -432,7 +435,6 @@ footer img{
     height: 40px;
     width: auto;
 }
-footer .data {}
 footer .data h4{
    font-size: 20px;
    color: rgb(48, 48, 48);
@@ -444,7 +446,6 @@ footer .data ul{
     padding-left: 0;
     line-height: 42px;
 }
-footer .data ul li{}
 footer .data ul li a{
     text-decoration: none;
     font-size: 14px;
@@ -460,7 +461,6 @@ footer .social {
     display: flex;
     justify-content: space-between;
 }
-footer .social .social-icons{}
 footer .social .social-icons ul li{
     float: left;
     padding: 0 5px;
